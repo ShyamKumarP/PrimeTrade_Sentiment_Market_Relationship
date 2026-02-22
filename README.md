@@ -4,6 +4,7 @@
 #Segmentation Analysis
 
 Sentiment-Driven Trader Behavior Analysis
+
 Methodology
 
 This study examines whether trader behavior and performance vary across sentiment regimes (Extreme Fear, Fear, Neutral, Greed, Extreme Greed).
