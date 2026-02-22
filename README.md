@@ -8,6 +8,12 @@ Methodology
 
 This study examines whether trader behavior and performance vary across sentiment regimes (Extreme Fear, Fear, Neutral, Greed, Extreme Greed).
 
+0. Data Cleaning
+
+We loaded the dataset. No null values or duplicates were present.The timestamp was changed accordingly.
+The same format date from both datasets was used to merge the dataset using the left join.
+After merging there was one date without value but from sentiment dataset the average value of sentiment around the missing date was found and used to fill it.
+
 1. Data Aggregation
 
 We computed daily trader-level metrics by grouping trades by trade_date and Account. Key performance and behavioral metrics included:
