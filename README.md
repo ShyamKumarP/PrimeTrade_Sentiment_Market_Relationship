@@ -39,6 +39,7 @@ We segmented traders using median splits:
 We then analyzed how each segment performed and behaved across sentiment regimes.
 
 Key Insights
+
 1. Fear Amplifies Aggressive Behavior
 
 Trading activity, leverage usage, and directional bias all increase significantly during Fear regimes, especially Extreme Fear.
@@ -60,6 +61,7 @@ Long-term traders dramatically increase long bias during Fear, suggesting long-t
 Rather than holding short-term like greed makret.
 
 Strategy Recommendations
+
 Strategy 1 — Regime-Adjusted Risk Allocation
 
 Adopt sentiment-adaptive leverage control:
